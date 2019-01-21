@@ -1,0 +1,14 @@
+.lemon-header
+{
+	background-image: url("./images/lemonpattern.jpg");
+	background-size: 400px;
+	height: 60vh;
+}
+.lemon-text{
+	text-align: center;
+	margin: auto;
+	line-height:60vh;
+	font-family: 'Kalam', cursive;
+	font-size:72px;
+	color: #3c3c22;
+}
